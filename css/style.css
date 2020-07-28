@@ -4,3 +4,11 @@ body {
    margin: 20px;
    line-height: 24px;
 }
+
+header {
+   font-weight: bold;
+   font-size: 26px;
+   margin-left: 120px;
+   padding-left: 20px;
+   padding-bottom: 20px;
+}
