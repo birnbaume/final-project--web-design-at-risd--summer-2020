@@ -6,7 +6,7 @@ nav {
    margin-left: 400px;
    width: 1000px;
    position: absolute;
-   bottom: 20px;
+   padding-bottom: 20px;
 }
 
 a:link {
