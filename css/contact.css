@@ -4,3 +4,9 @@ h2 {
    font-size: 22px;
 }
 
+div {
+   width: 340px;
+   padding: 16px 50px 16px 20px;
+   margin-left: 60px;
+   background-color: #f3a95f;
+}
