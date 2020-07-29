@@ -14,8 +14,12 @@ nav {
    position: relative;
    display: flex;
    flex-direction: row;
+   width: 1600px;
    text-align: center;
    padding: 20px;
+   padding-bottom: 0px;
+}
+
 }
 
 div > h2 {
