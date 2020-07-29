@@ -27,6 +27,8 @@ div > h2 {
    background-color: rgba(255, 255, 255, .8);
    width: 300px;
    height: 50px;
+   opacity: 0;
+   transition: 350ms;
    font-size: 4rem;
 }
 
@@ -40,5 +42,9 @@ div > h2 {
 
 .item-c > h2 {
    bottom: 200px;
+}
+
+div:hover > h2 {
+   opacity: 1;
 }
 }
