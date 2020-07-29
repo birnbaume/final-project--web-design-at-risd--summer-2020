@@ -33,11 +33,11 @@ div > h2 {
 }
 
 .item-a > h2 {
-   bottom: 1400px;
+   bottom: 800px;
 }
 
 .item-b > h2 {
-   bottom: 800px;
+   bottom: 1400px;
 }
 
 .item-c > h2 {
