@@ -1,0 +1,7 @@
+nav {
+   position: relative;
+   display: flex;
+   flex-direction: row;
+   text-align: center;
+   padding: 20px;
+}
