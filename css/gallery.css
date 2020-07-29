@@ -5,11 +5,6 @@ header {
    background-color: #E6E5E5;
 }
 
-span {
-   padding-left: 20px;
-   font-size: 16px;
-}
-
 nav {
    position: relative;
    display: flex;
