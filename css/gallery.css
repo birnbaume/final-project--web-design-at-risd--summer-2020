@@ -36,3 +36,22 @@ div > h2 {
    transition: 350ms;
    font-size: 4rem;
 }
+
+a:link {
+   color: black;
+   text-decoration: none;
+}
+
+a:hover {
+   color: #5cb2e0
+}
+
+a:active {
+   color: black;
+}
+
+a:visited {
+   color: #5cb2e0;
+}
+
+}
