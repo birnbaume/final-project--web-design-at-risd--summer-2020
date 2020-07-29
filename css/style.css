@@ -47,4 +47,17 @@ div > h2 {
 div:hover > h2 {
    opacity: 1;
 }
+
+a:link {
+   color: black;
+   text-decoration: none;
+}
+
+a:hover {
+   text-decoration: underline;
+}
+
+a:visited {
+   color: black;
+   text-decoration: none;
 }
