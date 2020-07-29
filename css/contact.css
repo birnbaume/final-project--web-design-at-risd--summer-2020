@@ -23,4 +23,19 @@ nav {
    position: absolute;
    bottom: 20px;
 }
+
+a:link {
+   color: black;
+}
+
+a:hover {
+   color: #f3a95f
+}
+
+a:active {
+   color: black;
+}
+
+a:visited {
+   color: #f3a95f;
 }
