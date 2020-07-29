@@ -54,4 +54,11 @@ a:visited {
    color: #5cb2e0;
 }
 
+#menu {
+   display: flex;
+   justify-content: space-around;
+   margin-left: 310px;
+   width: 1000px;
+   position: absolute;
+   padding-bottom: 20px;
 }
