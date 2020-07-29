@@ -20,7 +20,7 @@ nav {
    padding: 20px;
 }
 
-.item > h2 {
+div > h2 {
    position: absolute;
    margin-left: 800px;
 }
