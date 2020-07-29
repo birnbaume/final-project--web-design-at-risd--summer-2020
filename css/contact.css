@@ -14,3 +14,13 @@ div {
 p {
    margin-left: 40px;
 }
+
+nav {
+   display: flex;
+   justify-content: space-around;
+   margin-left: 400px;
+   width: 1000px;
+   position: absolute;
+   bottom: 20px;
+}
+}
