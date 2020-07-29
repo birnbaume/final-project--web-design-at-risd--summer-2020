@@ -24,6 +24,10 @@ nav {
    bottom: 20px;
 }
 
+main > p {
+   padding: 15px 10px 20px 10px;
+}
+
 a:link {
    color: black;
 }
