@@ -33,7 +33,7 @@ a:link {
 }
 
 a:hover {
-   color: #f3a95f
+   color: #5cb2e0
 }
 
 a:active {
@@ -41,5 +41,5 @@ a:active {
 }
 
 a:visited {
-   color: #f3a95f;
+   color: #5cb2e0;
 }
