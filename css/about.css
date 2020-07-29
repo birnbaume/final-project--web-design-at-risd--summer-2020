@@ -1,4 +1,6 @@
-
+img {
+   margin-left: 200px;
+}
 
 nav {
    display: flex;
