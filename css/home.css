@@ -1,3 +1,7 @@
+body {
+   background: rgb(177,144,217);
+   background: linear-gradient(146deg, rgba(177,144,217,1) 0%, rgba(218,202,237,1) 9%, rgba(255,255,255,1) 31%) no-repeat; 
+}
 
 nav {
    position: relative;

@@ -1,3 +1,9 @@
+body {
+   background: rgb(247,172,172);
+   background: linear-gradient(146deg, rgba(247,172,172,1) 0%, rgba(250,199,199,1) 9%, rgba(255,255,255,1) 31%) no-repeat; 
+   height: 100vh;
+}
+
 h2 {
    margin-left: 40px;
    padding: 20px 20px 20px 0px;

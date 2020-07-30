@@ -1,3 +1,8 @@
+body {
+   background: rgb(167,210,247);
+   background: linear-gradient(146deg, rgba(167,210,247,1) 0%, rgba(255,255,255,1) 31%) no-repeat;
+}
+
 img {
    margin-left: 200px;
 }
