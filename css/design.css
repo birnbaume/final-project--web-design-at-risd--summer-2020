@@ -6,3 +6,10 @@ main {
    width: 1200px;
    padding: 20px;
 }
+
+figcaption {
+   position: relative;
+   float: right;
+   width: 200px;
+   margin: 20px;
+}
