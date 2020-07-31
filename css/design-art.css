@@ -21,6 +21,8 @@ figcaption {
    float: right;
    width: 200px;
    margin: 20px;
+   font-family: 'Baskerville', sans-serif;
+   font-size: 18px;
 }
 
 a:link {
