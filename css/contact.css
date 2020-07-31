@@ -15,10 +15,14 @@ div {
    padding: 16px 50px 16px 20px;
    margin-left: 60px;
    background-color: #f3a95f;
+   font-family: 'Baskerville', sans-serif;
+   font-size: 18px;
 }
 
 p {
    margin-left: 40px;
+   font-family: 'Baskerville', sans-serif;
+   font-size: 18px;
 }
 
 nav {
