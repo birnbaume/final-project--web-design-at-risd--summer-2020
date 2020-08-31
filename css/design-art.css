@@ -47,4 +47,9 @@ a:visited {
    justify-content: space-around;
    margin-left: 310px;
    width: 1000px;
+   position: absolute;
+   padding: 0px;
+   padding-left: 40px;
+   margin-top: -22px;
+   font-size: 16px;
 }
