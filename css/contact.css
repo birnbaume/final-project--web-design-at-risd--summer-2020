@@ -28,10 +28,12 @@ p {
 nav {
    display: flex;
    justify-content: space-around;
-   margin-left: 400px;
+   margin-left: 310px;
    width: 1000px;
    position: absolute;
-   bottom: 20px;
+   padding: 0px;
+   margin-top: -22px;
+   font-size: 16px;
 }
 
 main > p {
